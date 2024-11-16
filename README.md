@@ -51,7 +51,7 @@ The Java Deque interface represents a double ended queue, meaning a data structu
 
 ## Java Iterator
 
-The Java Iterator interface represents a component that is capable of iterating a Java Collection of some kind. For instance, a List or a Set
+The Java Iterator interface represents a component that is capable of iterating a Java Collection of some kind. For instance, a List or a Set.
 
 ## Java Iterable
 
